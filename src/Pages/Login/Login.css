@@ -1,0 +1,48 @@
+.imgcontainer {
+  text-align: center;
+  position: relative;
+}
+
+img.avatar {
+  width: 30%;
+  border-radius: 50%;
+}
+.mr50{margin-top: 50px}
+
+input[type=email], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.login-btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.login-btn:hover {
+  opacity: 0.8;
+}
+
+.loginFormContainer {
+  width: 24rem;
+}
+
+.loginFormLegend {
+  width: 14rem;
+  background: #dee2e6;
+}
+
+.errorMessage {
+  font-size: 12px;
+  letter-spacing: 0.05rem;
+  padding-left: 0.25rem;
+}
