@@ -1,6 +1,5 @@
-# Infinite scroll + image lazy loading
+# Infinite scrolling list in react
 
-Implementing infinite scroll and image lazy loading with the `HTML` `IntersectionObserver` API.
 
 ## Quick start guide
 
